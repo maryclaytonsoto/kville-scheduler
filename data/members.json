@@ -1,0 +1,14 @@
+[
+  {"id": "m1",  "name": "Member 1",  "color": "#e74c3c", "photo_url": null},
+  {"id": "m2",  "name": "Member 2",  "color": "#e67e22", "photo_url": null},
+  {"id": "m3",  "name": "Member 3",  "color": "#d4ac0d", "photo_url": null},
+  {"id": "m4",  "name": "Member 4",  "color": "#27ae60", "photo_url": null},
+  {"id": "m5",  "name": "Member 5",  "color": "#16a085", "photo_url": null},
+  {"id": "m6",  "name": "Member 6",  "color": "#2980b9", "photo_url": null},
+  {"id": "m7",  "name": "Member 7",  "color": "#8e44ad", "photo_url": null},
+  {"id": "m8",  "name": "Member 8",  "color": "#c0392b", "photo_url": null},
+  {"id": "m9",  "name": "Member 9",  "color": "#1abc9c", "photo_url": null},
+  {"id": "m10", "name": "Member 10", "color": "#e91e63", "photo_url": null},
+  {"id": "m11", "name": "Member 11", "color": "#ff5722", "photo_url": null},
+  {"id": "m12", "name": "Member 12", "color": "#3498db", "photo_url": null}
+]

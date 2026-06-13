@@ -1,0 +1,15 @@
+{
+  "current_phase": "blue",
+  "game_date": "",
+  "grace_periods": [],
+  "games": [
+    {
+      "id": "unc_2026",
+      "opponent": "UNC",
+      "date": "2026-02-06",
+      "time": "21:00",
+      "is_home": true
+    }
+  ],
+  "pchecks": {}
+}
