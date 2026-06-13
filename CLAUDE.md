@@ -8,7 +8,7 @@ A scheduling tool for Duke Basketball K-Ville tenting groups. Twelve members tak
 
 There are two deliverables that work together:
 
-1. **`kville-scheduler.html`** — a single-file browser app (React 18 + Babel Standalone + Tailwind CDN) that serves as the primary user-facing interface. No build step required; just open in a browser. Firebase optional for multi-device sync.
+1. **`index.html`** — a single-file browser app (React 18 + Babel Standalone + Tailwind CDN) that serves as the primary user-facing interface. No build step required; just open in a browser. Firebase optional for multi-device sync.
 
 2. **Python package (`kville/`)** — a CLI and importable package for schedule generation, data management, and scripting. Entry point: `kville_schedule.py`.
 
@@ -16,7 +16,7 @@ There are two deliverables that work together:
 
 ```
 TeamSchedule/
-├── kville-scheduler.html    # Full browser app (single file)
+├── index.html    # Full browser app (single file)
 ├── kville_schedule.py       # CLI entry point
 ├── kville/
 │   ├── __init__.py          # Re-exports all public symbols
@@ -101,7 +101,7 @@ pytest tests/ -v
 
 ## Firebase sync (HTML app)
 
-Near the top of `kville-scheduler.html`, find:
+Near the top of `index.html`, find:
 
 ```js
 const FIREBASE_CONFIG = null;
